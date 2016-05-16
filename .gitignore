@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Folders
+build/
+
+# etc
+.gitignore~
+*.cpp~
+*.c~
