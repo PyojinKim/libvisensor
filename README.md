@@ -64,6 +64,7 @@ Make sure that you installed all necessary Ubuntu packages
 
 ```
 sudo apt-get install libeigen3-dev libboost-dev libopencv-dev
+sudo apt-get install libboost-filesystem-dev libboost-thread-dev
 ```
 
 Build the package and install it system-wide.
